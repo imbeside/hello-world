@@ -1,2 +1,5 @@
-# hello-world
-My first repository
+Info about me:
+
+Name: Pavel;
+
+Need to do: Nothing.
